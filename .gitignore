@@ -201,6 +201,14 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Django
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+local_settings.py
+
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
